@@ -69,4 +69,4 @@ test-project
 ### webpack-poligon
 
 test-project
-[https://github.com/andrew2020wit/mini-projects/tree/main/webpack/webpack-poligon](https://github.com/andrew2020wit/mini-projects/tree/main/webpack/webpack-poligon)
+[https://github.com/andrew2020wit/webpack-poligon](https://github.com/andrew2020wit/webpack-poligon)
