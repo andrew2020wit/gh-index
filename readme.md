@@ -25,7 +25,7 @@ Demo Angular PWA App, Demo Angular Internationalization (i18n)
 
 ## vue-poligon
 
-vue.js test project, vuejs/vuex/router/bootstrap
+vue.js(2) test project, vuejs/vuex/router/bootstrap
 [https://andrew2020wit.github.io/vue-poligon/](https://andrew2020wit.github.io/vue-poligon/)
 [https://github.com/andrew2020wit/vue-poligon](https://github.com/andrew2020wit/vue-poligon)
 
@@ -51,22 +51,22 @@ Express.js, Mongoose/MongoDB, express-handlebars
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/express-js/express-mongo-ehbs-rest](https://github.com/andrew2020wit/mini-projects/tree/main/express-js/express-mongo-ehbs-rest)
 
-### node-express-socketio
+### node-express-socketio, test-project
 
-test-project
 [https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-express-socketio](https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-express-socketio)
 
-### Node.js + websocket(ws)
+### Node.js + websocket(ws), test-project
 
-test-project
 [https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws](https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws)
 
-### jQuery
+### jQuery, test-project
 
-test-project
 [https://github.com/andrew2020wit/mini-projects/tree/main/jQuery](https://github.com/andrew2020wit/mini-projects/tree/main/jQuery)
 
-### webpack-poligon
+### webpack-poligon: test-project
 
-test-project
 [https://github.com/andrew2020wit/webpack-poligon](https://github.com/andrew2020wit/webpack-poligon)
+
+### gulp-poligon: test simple project
+
+[https://github.com/andrew2020wit/gulp-poligon](https://github.com/andrew2020wit/gulp-poligon)
