@@ -23,11 +23,17 @@ angular + material + JWT-authentication + ngx-formly.
 Demo Angular PWA App, Demo Angular Internationalization (i18n)
 [https://github.com/andrew2020wit/mini-projects/tree/main/angular/app-pwa-i18n](https://github.com/andrew2020wit/mini-projects/tree/main/angular/app-pwa-i18n)
 
-## vue-poligon
+## Vue.js
+
+### vue-poligon
 
 vue.js(2) test project, vuejs/vuex/router/bootstrap
 [https://andrew2020wit.github.io/vue-poligon/](https://andrew2020wit.github.io/vue-poligon/)
 [https://github.com/andrew2020wit/vue-poligon](https://github.com/andrew2020wit/vue-poligon)
+
+### Nuxt, TypeScript, Content (postponed)
+
+[https://github.com/andrew2020wit/NuxtStore](https://github.com/andrew2020wit/NuxtStore)
 
 ## Nest.js
 
