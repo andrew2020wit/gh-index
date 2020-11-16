@@ -1,5 +1,11 @@
 # Andrew2020WIT, GitHub content
 
+## OnlineStore, Angular/Nestjs application
+
+Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, dotenv, GraphQL, interceptors, guards, Reactive forms, RxJS, Subject-state, Angular-Material, Material custom theme, infinite scroll
+
+[https://github.com/andrew2020wit/online-store](https://github.com/andrew2020wit/online-store)
+
 ## Angular
 
 ### angular-poligon
