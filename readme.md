@@ -2,7 +2,7 @@
 
 ## OnlineStore, Angular/Nestjs application
 
-Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, dotenv, GraphQL, interceptors, guards, Reactive forms, RxJS, Subject-state, Angular-Material, Material custom theme, infinite scroll
+Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, dotenv, GraphQL, interceptors, guards, Reactive forms, RxJS, Subject-state, Angular-Material, Material custom theme, infinite scroll, ngx-formly
 
 [https://github.com/andrew2020wit/online-store](https://github.com/andrew2020wit/online-store)
 
@@ -53,15 +53,19 @@ Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, 
 Nestjs + Handlebars engine
 [https://github.com/andrew2020wit/mini-projects/tree/main/nest-js/nest-handlebars](https://github.com/andrew2020wit/mini-projects/tree/main/nest-js/nest-handlebars)
 
-## mini-projects
+## Express
 
-[https://github.com/andrew2020wit/mini-projects](https://github.com/andrew2020wit/mini-projects)
+### express-poligon: file upload
+
+[https://github.com/andrew2020wit/express-poligon](https://github.com/andrew2020wit/express-poligon)
 
 ### express-mongo-ehbs-rest
 
 Express.js, Mongoose/MongoDB, express-handlebars
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/express-js/express-mongo-ehbs-rest](https://github.com/andrew2020wit/mini-projects/tree/main/express-js/express-mongo-ehbs-rest)
+
+## Node
 
 ### node-express-socketio, test-project
 
@@ -70,6 +74,10 @@ Express.js, Mongoose/MongoDB, express-handlebars
 ### Node.js + websocket(ws), test-project
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws](https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws)
+
+## mini-projects
+
+[https://github.com/andrew2020wit/mini-projects](https://github.com/andrew2020wit/mini-projects)
 
 ### jQuery, test-project
 
