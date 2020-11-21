@@ -29,6 +29,12 @@ angular + material + JWT-authentication + ngx-formly.
 Demo Angular PWA App, Demo Angular Internationalization (i18n)
 [https://github.com/andrew2020wit/mini-projects/tree/main/angular/app-pwa-i18n](https://github.com/andrew2020wit/mini-projects/tree/main/angular/app-pwa-i18n)
 
+### angular-poligonN2
+
+fileUpload
+
+[https://github.com/andrew2020wit/angular-poligonN2](https://github.com/andrew2020wit/angular-poligonN2)
+
 ## Vue.js
 
 ### vue-poligon
@@ -52,6 +58,11 @@ Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, 
 
 Nestjs + Handlebars engine
 [https://github.com/andrew2020wit/mini-projects/tree/main/nest-js/nest-handlebars](https://github.com/andrew2020wit/mini-projects/tree/main/nest-js/nest-handlebars)
+
+### nest-poligon
+
+file upload
+[https://github.com/andrew2020wit/nest-poligon](https://github.com/andrew2020wit/nest-poligon)
 
 ## Express
 
