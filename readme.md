@@ -101,3 +101,9 @@ Express.js, Mongoose/MongoDB, express-handlebars
 ### gulp-poligon: test simple project
 
 [https://github.com/andrew2020wit/gulp-poligon](https://github.com/andrew2020wit/gulp-poligon)
+
+## html-css-js-practicum
+
+[https://github.com/andrew2020wit/html-css-js-practicum](https://github.com/andrew2020wit/html-css-js-practicum)
+
+### tasks from https://learn.javascript.ru/
