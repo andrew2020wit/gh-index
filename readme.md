@@ -1,5 +1,11 @@
 # Andrew2020WIT, GitHub content
 
+## KeyboardTrainer, v0.6
+
+Application for practicing blind typing on the keyboard. MIT License.
+
+[https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
+
 ## OnlineStore, Angular/Nestjs application
 
 Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, dotenv, GraphQL, interceptors, guards, Reactive forms, RxJS, Subject-state, Angular-Material, Material custom theme, infinite scroll, ngx-formly
