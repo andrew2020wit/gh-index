@@ -7,6 +7,13 @@ Application for practicing blind typing on the keyboard. MIT License.
 
 [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
 
+## Tasks
+
+### dinamic-form-editor
+
+angular + material + JWT-authentication + ngx-formly.
+[https://github.com/andrew2020wit/dinamic-form-editor](https://github.com/andrew2020wit/dinamic-form-editor)
+
 ## Training projects
 
 ### OnlineStore, Angular/Nestjs application
@@ -22,11 +29,6 @@ Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, 
 Test-demo angular project.
 [https://andrew2020wit.github.io/angular-poligon/](https://andrew2020wit.github.io/angular-poligon/)
 [https://github.com/andrew2020wit/angular-poligon](https://github.com/andrew2020wit/angular-poligon)
-
-#### dinamic-form-editor
-
-angular + material + JWT-authentication + ngx-formly.
-[https://github.com/andrew2020wit/dinamic-form-editor](https://github.com/andrew2020wit/dinamic-form-editor)
 
 #### blog-front, Angular application.
 
