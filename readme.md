@@ -7,6 +7,10 @@ Application for practicing blind typing on the keyboard. MIT License.
 
 [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
 
+## Test Api for SPA, based on NextJS
+
+[https://github.com/andrew2020wit/nest-test-api](https://github.com/andrew2020wit/nest-test-api)
+
 ## Tasks
 
 ### dinamic-form-editor
@@ -45,15 +49,13 @@ fileUpload
 
 [https://github.com/andrew2020wit/angular-poligonN2](https://github.com/andrew2020wit/angular-poligonN2)
 
-### Vue.js
+### Vue/Nuxt
 
-#### vue-poligon
+[https://github.com/andrew2020wit/vue-js-test1](https://github.com/andrew2020wit/vue-js-test1)
 
-vue.js(2) test project, vuejs/vuex/router/bootstrap
-[https://andrew2020wit.github.io/vue-poligon/](https://andrew2020wit.github.io/vue-poligon/)
+[https://github.com/andrew2020wit/nuxt-js-test1](https://github.com/andrew2020wit/nuxt-js-test1)
+
 [https://github.com/andrew2020wit/vue-poligon](https://github.com/andrew2020wit/vue-poligon)
-
-#### Nuxt, TypeScript, Content (postponed)
 
 [https://github.com/andrew2020wit/NuxtStore](https://github.com/andrew2020wit/NuxtStore)
 
