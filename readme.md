@@ -51,6 +51,8 @@ fileUpload
 
 ### Vue/Nuxt
 
+[https://github.com/andrew2020wit/nuxt-ts-test1](https://github.com/andrew2020wit/nuxt-ts-test1)
+
 [https://github.com/andrew2020wit/vue-js-test1](https://github.com/andrew2020wit/vue-js-test1)
 
 [https://github.com/andrew2020wit/nuxt-js-test1](https://github.com/andrew2020wit/nuxt-js-test1)
