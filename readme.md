@@ -49,9 +49,15 @@ fileUpload
 
 [https://github.com/andrew2020wit/angular-poligonN2](https://github.com/andrew2020wit/angular-poligonN2)
 
-### Vue/Nuxt
+### Vue2/VueRouter/Vuex/Nuxt
+
+#### nuxt, vue2, typescript, pug
+
+bases nuxt-functions, rest-crud-api, auth
 
 [https://github.com/andrew2020wit/nuxt-ts-test1](https://github.com/andrew2020wit/nuxt-ts-test1)
+
+#### bases vue functions, jwt-auth, interceptors
 
 [https://github.com/andrew2020wit/vue-js-test1](https://github.com/andrew2020wit/vue-js-test1)
 
