@@ -51,6 +51,12 @@ fileUpload
 
 ### Vue2/VueRouter/Vuex/Nuxt
 
+#### online-lite-store
+
+Front: SSR-Nuxt, Content + Vuetify, BackAPI: NestJS
+
+[https://github.com/andrew2020wit/online-lite-store](https://github.com/andrew2020wit/online-lite-store)
+
 #### nuxt, vue2, typescript, pug
 
 bases nuxt-functions, rest-crud-api, auth
