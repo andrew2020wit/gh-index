@@ -54,6 +54,14 @@ fileUpload
 #### online-lite-store
 
 Front: SSR-Nuxt, Content + Vuetify, BackAPI: NestJS
+Training project.
+
+1. Static goods-list & goods-pages, text-description, images, priority, price, category
+2. Dynamic home-page with search & filter, infinite-scroll, bootstrap-like grid
+3. Cart & order, send order, orders list
+4. User-Authorization (jwt), create/edit
+5. Admin-function: UserList, disactivate user, switch user role (manager/user)
+6. Init md-generator for goods-page (nuxt-content), nestjs.
 
 [https://github.com/andrew2020wit/online-lite-store](https://github.com/andrew2020wit/online-lite-store)
 
