@@ -143,5 +143,3 @@ Express.js, Mongoose/MongoDB, express-handlebars
 ### html-css-js-practicum
 
 [https://github.com/andrew2020wit/html-css-js-practicum](https://github.com/andrew2020wit/html-css-js-practicum)
-
-#### tasks from https://learn.javascript.ru/
