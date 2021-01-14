@@ -65,6 +65,10 @@ Training project.
 
 [https://github.com/andrew2020wit/online-lite-store](https://github.com/andrew2020wit/online-lite-store)
 
+#### Vue3, Composition API
+
+[https://github.com/andrew2020wit/vue3-test] (https://github.com/andrew2020wit/vue3-test)
+
 #### nuxt, vue2, typescript, pug
 
 bases nuxt-functions, rest-crud-api, auth
