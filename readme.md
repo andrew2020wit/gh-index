@@ -2,10 +2,16 @@
 
 ## KeyboardTrainer, v1.0
 
-Application for practicing blind typing on the keyboard. MIT License.
+Serverless application for practicing blind typing on the keyboard. MIT License.
 [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
 
 [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
+
+- addition functions:
+
+1. penalty char - it add 5 same char, when user made mistake.
+2. custom user text (settings)
+3. save statistic/text (localStorage)
 
 ## Tasks
 
