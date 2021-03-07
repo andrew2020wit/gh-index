@@ -7,10 +7,6 @@ Application for practicing blind typing on the keyboard. MIT License.
 
 [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
 
-## Test Api for SPA, based on NextJS
-
-[https://github.com/andrew2020wit/nest-test-api](https://github.com/andrew2020wit/nest-test-api)
-
 ## Tasks
 
 ### dinamic-form-editor
@@ -18,7 +14,7 @@ Application for practicing blind typing on the keyboard. MIT License.
 angular + material + JWT-authentication + ngx-formly.
 [https://github.com/andrew2020wit/dinamic-form-editor](https://github.com/andrew2020wit/dinamic-form-editor)
 
-## Training projects
+## Complex training project
 
 ### OnlineStore, Angular/Nestjs application
 
@@ -26,11 +22,26 @@ Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, 
 
 [https://github.com/andrew2020wit/online-store](https://github.com/andrew2020wit/online-store)
 
+### online-lite-store
+
+Front: SSR-Nuxt, Content + Vuetify, BackAPI: NestJS
+Training project.
+
+1. Static goods-list & goods-pages, text-description, images, priority, price, category
+2. Dynamic home-page with search & filter, infinite-scroll, bootstrap-like grid
+3. Cart & order, send order, orders list
+4. User-Authorization (jwt), create/edit
+5. Admin-function: UserList, disactivate user, switch user role (manager/user)
+6. Init md-generator for goods-page (nuxt-content), nestjs.
+
+[https://github.com/andrew2020wit/online-lite-store](https://github.com/andrew2020wit/online-lite-store)
+
+## Simple training projects
+
 ### Angular
 
 #### angular-poligon
 
-Test-demo angular project.
 [https://andrew2020wit.github.io/angular-poligon/](https://andrew2020wit.github.io/angular-poligon/)
 [https://github.com/andrew2020wit/angular-poligon](https://github.com/andrew2020wit/angular-poligon)
 
@@ -50,20 +61,6 @@ fileUpload
 [https://github.com/andrew2020wit/angular-poligonN2](https://github.com/andrew2020wit/angular-poligonN2)
 
 ### Vue2/VueRouter/Vuex/Nuxt
-
-#### online-lite-store
-
-Front: SSR-Nuxt, Content + Vuetify, BackAPI: NestJS
-Training project.
-
-1. Static goods-list & goods-pages, text-description, images, priority, price, category
-2. Dynamic home-page with search & filter, infinite-scroll, bootstrap-like grid
-3. Cart & order, send order, orders list
-4. User-Authorization (jwt), create/edit
-5. Admin-function: UserList, disactivate user, switch user role (manager/user)
-6. Init md-generator for goods-page (nuxt-content), nestjs.
-
-[https://github.com/andrew2020wit/online-lite-store](https://github.com/andrew2020wit/online-lite-store)
 
 #### Vue3, Composition API
 
@@ -87,6 +84,10 @@ bases nuxt-functions, rest-crud-api, auth
 
 ### Nest.js
 
+#### Test Api for SPA, based on NextJS
+
+[https://github.com/andrew2020wit/nest-test-api](https://github.com/andrew2020wit/nest-test-api)
+
 #### BlogBack NestJS Application
 
 Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, dotenv, GraphQL
@@ -102,7 +103,7 @@ Nestjs + Handlebars engine
 file upload
 [https://github.com/andrew2020wit/nest-poligon](https://github.com/andrew2020wit/nest-poligon)
 
-### Express
+### Node/Express
 
 #### express-poligon: file upload
 
@@ -114,8 +115,6 @@ Express.js, Mongoose/MongoDB, express-handlebars
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/express-js/express-mongo-ehbs-rest](https://github.com/andrew2020wit/mini-projects/tree/main/express-js/express-mongo-ehbs-rest)
 
-### Node
-
 #### node-express-socketio, test-project
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-express-socketio](https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-express-socketio)
@@ -124,9 +123,7 @@ Express.js, Mongoose/MongoDB, express-handlebars
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws](https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws)
 
-### mini-projects
-
-[https://github.com/andrew2020wit/mini-projects](https://github.com/andrew2020wit/mini-projects)
+### Basis, miscellanea
 
 #### jQuery, test-project
 
@@ -139,7 +136,3 @@ Express.js, Mongoose/MongoDB, express-handlebars
 #### gulp-poligon: test simple project
 
 [https://github.com/andrew2020wit/gulp-poligon](https://github.com/andrew2020wit/gulp-poligon)
-
-### html-css-js-practicum
-
-[https://github.com/andrew2020wit/html-css-js-practicum](https://github.com/andrew2020wit/html-css-js-practicum)
