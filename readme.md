@@ -64,6 +64,10 @@ fileUpload
 
 [https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example)
 
+#### (angular) 02-server-sent-events-nest-angular-example
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/02-server-sent-events-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/02-server-sent-events-nest-angular-example)
+
 ### Vue2/VueRouter/Vuex/Nuxt
 
 #### Vue3, Composition API
@@ -111,7 +115,15 @@ file upload
 
 [https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example)
 
+#### (nest) 02-server-sent-events-nest-angular-example
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/02-server-sent-events-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/02-server-sent-events-nest-angular-example)
+
 ### Node/Express
+
+#### 03-node-rabbitmq
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq](https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq)
 
 #### express-poligon: file upload
 
