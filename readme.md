@@ -54,6 +54,10 @@ Training project.
 Demo Angular PWA App, Demo Angular Internationalization (i18n)
 [https://github.com/andrew2020wit/mini-projects/tree/main/angular/app-pwa-i18n](https://github.com/andrew2020wit/mini-projects/tree/main/angular/app-pwa-i18n)
 
+#### rxjs-practicum
+
+[https://github.com/andrew2020wit/rxjs-practicum](https://github.com/andrew2020wit/rxjs-practicum)
+
 #### angular-poligonN2
 
 fileUpload
@@ -159,6 +163,20 @@ Express.js, Mongoose/MongoDB, express-handlebars
 #### Node.js + websocket(ws), test-project
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws](https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws)
+
+#### (node) js-practicum
+
+[https://github.com/andrew2020wit/js-practicum](https://github.com/andrew2020wit/js-practicum)
+
+1. express-local-passport
+2. express-locallibrary-tutorial (MDN)
+3. express-mongodb2
+4. express1: cookie, error-handling, session + redis, pug, routing, static, middleware
+5. node-cli
+6. node-cluster
+7. node-mongoose
+8. node-typescript1
+9. EventEmitter
 
 ### Basis, miscellanea
 
