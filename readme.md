@@ -60,6 +60,10 @@ fileUpload
 
 [https://github.com/andrew2020wit/angular-poligonN2](https://github.com/andrew2020wit/angular-poligonN2)
 
+#### 01-websocketIO-nest-angular-example
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example)
+
 ### Vue2/VueRouter/Vuex/Nuxt
 
 #### Vue3, Composition API
@@ -102,6 +106,10 @@ Nestjs + Handlebars engine
 
 file upload
 [https://github.com/andrew2020wit/nest-poligon](https://github.com/andrew2020wit/nest-poligon)
+
+#### (nest) 01-websocketIO-nest-angular-example
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example)
 
 ### Node/Express
 
