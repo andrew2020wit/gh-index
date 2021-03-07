@@ -60,7 +60,7 @@ fileUpload
 
 [https://github.com/andrew2020wit/angular-poligonN2](https://github.com/andrew2020wit/angular-poligonN2)
 
-#### 01-websocketIO-nest-angular-example
+#### (angular) 01-websocketIO-nest-angular-example
 
 [https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/01-websocketIO-nest-angular-example)
 
@@ -89,6 +89,10 @@ bases nuxt-functions, rest-crud-api, auth
 [https://github.com/andrew2020wit/vue-poligon](https://github.com/andrew2020wit/vue-poligon)
 
 [https://github.com/andrew2020wit/NuxtStore](https://github.com/andrew2020wit/NuxtStore)
+
+#### vue-html-api-client
+
+[https://github.com/andrew2020wit/vue-html-api-client](https://github.com/andrew2020wit/vue-html-api-client)
 
 ### Nest.js
 
@@ -119,11 +123,24 @@ file upload
 
 [https://github.com/andrew2020wit/mini-projects-2/tree/master/02-server-sent-events-nest-angular-example](https://github.com/andrew2020wit/mini-projects-2/tree/master/02-server-sent-events-nest-angular-example)
 
+#### nest-practicum
+
+[https://github.com/andrew2020wit/nest-practicum](https://github.com/andrew2020wit/nest-practicum)
+
+1. nest-mongoose
+2. nest-prisma
+3. nest-microservice
+4. nest-typeorm + migration
+
 ### Node/Express
 
 #### 03-node-rabbitmq
 
 [https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq](https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq)
+
+#### node-test-cli-client
+
+[https://github.com/andrew2020wit/node-test-cli-client](https://github.com/andrew2020wit/node-test-cli-client)
 
 #### express-poligon: file upload
 
