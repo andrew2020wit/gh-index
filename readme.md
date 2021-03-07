@@ -16,13 +16,13 @@ angular + material + JWT-authentication + ngx-formly.
 
 ## Complex training project
 
-### OnlineStore, Angular/Nestjs application
+### OnlineStore, Angular/Nest
 
 Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, dotenv, GraphQL, interceptors, guards, Reactive forms, RxJS, Subject-state, Angular-Material, Material custom theme, infinite scroll, ngx-formly
 
 [https://github.com/andrew2020wit/online-store](https://github.com/andrew2020wit/online-store)
 
-### online-lite-store
+### Online-lite-store, Vue/Nuxt/Nest
 
 Front: SSR-Nuxt, Content + Vuetify, BackAPI: NestJS
 Training project.
