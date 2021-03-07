@@ -10,8 +10,8 @@ Serverless application for practicing blind typing on the keyboard. MIT License.
 - addition functions:
 
 1. penalty char - it add 5 same char, when user made mistake.
-2. custom user text (settings)
-3. save statistic/text (localStorage)
+2. custom user text (settings), (Lorem-text by default)
+3. show/save statistic/text (localStorage)
 
 ## Tasks
 
