@@ -2,7 +2,7 @@
 
 ## KeyboardTrainer, v1.0
 
-Serverless application for practicing blind typing on the keyboard. MIT License.
+Serverless angular-application for practicing blind typing on the keyboard. MIT License.
 [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
 
 [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
