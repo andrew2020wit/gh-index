@@ -144,6 +144,14 @@ file upload
 
 ### Node/Express
 
+#### 05-node-redis
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/05-node-redis](https://github.com/andrew2020wit/mini-projects-2/tree/master/05-node-redis)
+
+#### kafka
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/04-node-kafka/01-kafka-first](https://github.com/andrew2020wit/mini-projects-2/tree/master/04-node-kafka/01-kafka-first)
+
 #### 03-node-rabbitmq
 
 [https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq](https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq)
