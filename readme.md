@@ -156,6 +156,12 @@ file upload
 
 [https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq](https://github.com/andrew2020wit/mini-projects-2/tree/master/03-node-rabbitmq)
 
+#### node-launcher-child_process
+
+nodejs runs .bat-file (in Windows)
+
+[https://github.com/andrew2020wit/mini-projects-2/tree/master/06-node-misc/01-node-launcher-child_process](https://github.com/andrew2020wit/mini-projects-2/tree/master/06-node-misc/01-node-launcher-child_process)
+
 #### node-test-cli-client
 
 [https://github.com/andrew2020wit/node-test-cli-client](https://github.com/andrew2020wit/node-test-cli-client)
