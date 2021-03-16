@@ -13,13 +13,6 @@ Serverless angular-application for practicing blind typing on the keyboard. MIT 
 2. custom user text (settings), (Lorem-text by default)
 3. show/save statistic/text (localStorage)
 
-## Tasks
-
-### dinamic-form-editor
-
-angular + material + JWT-authentication + ngx-formly.
-[https://github.com/andrew2020wit/dinamic-form-editor](https://github.com/andrew2020wit/dinamic-form-editor)
-
 ## Complex training project
 
 ### OnlineStore, Angular/Nest
@@ -54,6 +47,11 @@ Training project.
 #### blog-front, Angular application.
 
 [https://github.com/andrew2020wit/blog-front](https://github.com/andrew2020wit/blog-front)
+
+#### dynamic-form-editor
+
+angular + material + JWT-authentication + ngx-formly.
+[https://github.com/andrew2020wit/dinamic-form-editor](https://github.com/andrew2020wit/dinamic-form-editor)
 
 #### app-pwa-i18n
 
