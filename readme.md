@@ -102,6 +102,12 @@ bases nuxt-functions, rest-crud-api, auth
 
 [https://github.com/andrew2020wit/vue-html-api-client](https://github.com/andrew2020wit/vue-html-api-client)
 
+### ReactJS
+
+#### ReactJS - test projects
+
+[https://github.com/andrew2020wit/react-test](https://github.com/andrew2020wit/react-test)
+
 ### Nest.js
 
 #### Test Api for SPA, based on NextJS
