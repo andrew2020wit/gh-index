@@ -13,6 +13,21 @@ Serverless angular-application for practicing blind typing on the keyboard. MIT 
 2. custom user text (settings), (Lorem-text by default)
 3. show/save statistic/text (localStorage)
 
+## Demo
+
+### Image Finder
+
+[https://andrew2020wit.github.io/flickr-bookmarks/](https://andrew2020wit.github.io/flickr-bookmarks/)
+
+1. This is a web app to search for images using Flickr
+2. Bookmarks are saved to the browser local storage
+3. It use Angular, MaterialUI, FlexLayoutModule, FlickrAPI
+4. Source: [https://github.com/andrew2020wit/flickr-bookmarks](https://github.com/andrew2020wit/flickr-bookmarks)
+
+### Angular test-front
+
+[https://andrew2020wit.github.io/angular-poligon/](https://andrew2020wit.github.io/angular-poligon/)
+
 ## Complex training project
 
 ### OnlineStore, Angular/Nest
@@ -187,6 +202,10 @@ Express.js, Mongoose/MongoDB, express-handlebars
 #### Node.js + websocket(ws), test-project
 
 [https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws](https://github.com/andrew2020wit/mini-projects/tree/main/web-socket/node-ws)
+
+#### Node.js + websocket(ws) + MySQL (Sequelize)
+
+[https://github.com/andrew2020wit/node-websoket-mysql](https://github.com/andrew2020wit/node-websoket-mysql)
 
 #### (node) js-practicum
 
