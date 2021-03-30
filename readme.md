@@ -28,6 +28,8 @@ Serverless angular-application for practicing blind typing on the keyboard. MIT 
 
 [https://andrew2020wit.github.io/angular-poligon/](https://andrew2020wit.github.io/angular-poligon/)
 
+Source: [https://github.com/andrew2020wit/angular-poligon](https://github.com/andrew2020wit/angular-poligon)
+
 ## Complex training project
 
 ### OnlineStore, Angular/Nest
