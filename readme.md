@@ -56,6 +56,16 @@ Training project.
 
 ### Angular
 
+#### angular-templates
+
+[https://github.com/andrew2020wit/angular-templates](https://github.com/andrew2020wit/angular-templates)
+
+##### Custom-date-picker
+(custom header)
+##### internationalization: transloco
+##### title service
+router.events.subscribe + angular title-service
+
 #### angular-poligon
 
 [https://andrew2020wit.github.io/angular-poligon/](https://andrew2020wit.github.io/angular-poligon/)
