@@ -13,6 +13,14 @@ Serverless angular-application for practicing blind typing on the keyboard. MIT 
 2. custom user text (settings), (Lorem-text by default)
 3. show/save statistic/text (localStorage)
 
+## AngularOrganizer
+
+- Simple organizer, based on Angular, MaterialUI.
+- Tasks, tags, drag-drop-list, import/export from/to JSON.
+
+- [https://github.com/andrew2020wit/angular-organizer](https://github.com/andrew2020wit/angular-organizer)
+- [https://andrew2020wit.github.io/angular-organizer/](https://andrew2020wit.github.io/angular-organizer/)
+
 ## Demo
 
 ### Image Finder
