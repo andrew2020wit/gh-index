@@ -4,8 +4,8 @@
 
 Serverless angular-application for practicing blind typing on the keyboard.
 
-- source: [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
-- app: [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
+- app: [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
+- source: [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
 
 ### addition functions:
 
@@ -18,8 +18,8 @@ Serverless angular-application for practicing blind typing on the keyboard.
 - Simple organizer, based on Angular, MaterialUI.
 - Tasks, tags, drag-drop-list, import/export from/to JSON.
 
-- [https://github.com/andrew2020wit/angular-organizer](https://github.com/andrew2020wit/angular-organizer)
-- [https://andrew2020wit.github.io/angular-organizer/](https://andrew2020wit.github.io/angular-organizer/)
+- source: [https://github.com/andrew2020wit/angular-organizer](https://github.com/andrew2020wit/angular-organizer)
+- app: [https://andrew2020wit.github.io/angular-organizer/](https://andrew2020wit.github.io/angular-organizer/)
 
 ## My articles
 
