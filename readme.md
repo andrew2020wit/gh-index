@@ -3,11 +3,11 @@
 ## KeyboardTrainer, v1.0
 
 Serverless angular-application for practicing blind typing on the keyboard.
-[https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
 
-[https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
+- source: [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
+- app: [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
 
-- addition functions:
+### addition functions:
 
 1. penalty char - it adds 5 same char, when user made mistake.
 2. custom user text (settings), (Lorem-text by default)
