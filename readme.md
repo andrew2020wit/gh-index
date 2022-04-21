@@ -2,14 +2,14 @@
 
 ## KeyboardTrainer, v1.0
 
-Serverless angular-application for practicing blind typing on the keyboard. MIT License.
+Serverless angular-application for practicing blind typing on the keyboard.
 [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
 
 [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
 
 - addition functions:
 
-1. penalty char - it add 5 same char, when user made mistake.
+1. penalty char - it adds 5 same char, when user made mistake.
 2. custom user text (settings), (Lorem-text by default)
 3. show/save statistic/text (localStorage)
 
@@ -21,7 +21,11 @@ Serverless angular-application for practicing blind typing on the keyboard. MIT 
 - [https://github.com/andrew2020wit/angular-organizer](https://github.com/andrew2020wit/angular-organizer)
 - [https://andrew2020wit.github.io/angular-organizer/](https://andrew2020wit.github.io/angular-organizer/)
 
-## Demo
+## My articles
+
+[https://andrew2020wit.github.io/wit-articles/](https://andrew2020wit.github.io/wit-articles/)
+
+## A heap of test-projects
 
 ### Image Finder
 
