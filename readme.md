@@ -1,6 +1,6 @@
 # Andrew2020WIT, GitHub content
 
-## KeyboardTrainer, v1.0
+## KeyboardTrainer, v1.3
 
 Serverless angular-application for practicing blind typing on the keyboard.
 
