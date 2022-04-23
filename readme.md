@@ -13,6 +13,8 @@ Serverless angular-application for practicing blind typing on the keyboard.
 2. custom user text (settings), (Lorem-text by default)
 3. show/save statistic/text (localStorage)
 
+includes unit tests and end-to-end tests
+
 ## AngularOrganizer
 
 - Simple organizer, based on Angular, MaterialUI.
