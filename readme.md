@@ -23,9 +23,6 @@ It includes unit tests and end-to-end tests.
 - source: [https://github.com/andrew2020wit/angular-organizer](https://github.com/andrew2020wit/angular-organizer)
 - app: [https://andrew2020wit.github.io/angular-organizer/](https://andrew2020wit.github.io/angular-organizer/)
 
-## My articles
-
-[https://andrew2020wit.github.io/wit-articles/](https://andrew2020wit.github.io/wit-articles/)
 
 ## A heap of test-projects
 
