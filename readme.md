@@ -2,7 +2,8 @@
 
 ## KeyboardTrainer, v1.3 (2020 - 2022)
 
-The serverless angular-application for practicing blind typing on the keyboard.
+The serverless angular-application 
+for practicing blind typing on a keyboard.
 
 - app: [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
 - source: [https://github.com/andrew2020wit/keyboard-trainer](https://github.com/andrew2020wit/keyboard-trainer)
@@ -36,14 +37,6 @@ It isn't very useful, just a test project.
 3. It use Angular, MaterialUI, FlexLayoutModule, FlickrAPI
 4. Source: [https://github.com/andrew2020wit/flickr-bookmarks](https://github.com/andrew2020wit/flickr-bookmarks)
 
-### AngularPoligon (2020)
-
-This is my first learning project, which I shared with GitHub.
-
-[https://andrew2020wit.github.io/angular-poligon/](https://andrew2020wit.github.io/angular-poligon/)
-
-Source: [https://github.com/andrew2020wit/angular-poligon](https://github.com/andrew2020wit/angular-poligon)
-
 ### OnlineStore, Angular/Nest (2020)
 
 Static Server, Authentication, JWT, Passport, TypeORM, validation, environment, dotenv, GraphQL, interceptors, guards, Reactive forms, RxJS, Subject-state, Angular-Material, Material custom theme, infinite scroll, ngx-formly
@@ -63,3 +56,11 @@ Training project.
 6. Init md-generator for goods-page (nuxt-content), nestjs.
 
 [https://github.com/andrew2020wit/online-lite-store](https://github.com/andrew2020wit/online-lite-store)
+
+### AngularPoligon (2020)
+
+This is my first learning project, which I shared with GitHub.
+
+[https://andrew2020wit.github.io/angular-poligon/](https://andrew2020wit.github.io/angular-poligon/)
+
+Source: [https://github.com/andrew2020wit/angular-poligon](https://github.com/andrew2020wit/angular-poligon)
