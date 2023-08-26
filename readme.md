@@ -1,5 +1,20 @@
 # Andrew2020WIT, GitHub content
 
+## Bilingua Dealer is a server-less web-application which allows:
+
+- Create a bilingua book (with original text, and some translation service like Google-translation).
+- Read bilingua books.
+- Edit bilingua books.
+- Learn the foreign language, using additional functionality like "fragments".
+- Listen the original text, using a speech-engine.
+- It automatically copies the selected text (or the clicked word) to clipboard,
+  so that you can integrate it with a dictionary, which can observe clipboard (GoldenDict, for example).
+- Save the bilingua book as a json-file, import it from the json-file.
+
+App: [https://andrew2020wit.github.io/bilingua-dealer/](https://andrew2020wit.github.io/bilingua-dealer/)
+
+Doc: [https://github.com/andrew2020wit/bilingua-dealer](https://github.com/andrew2020wit/bilingua-dealer)
+
 ## KeyboardTrainer, v1.3 (2020 - 2022)
 
 The serverless angular-application 
