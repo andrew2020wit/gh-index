@@ -1,23 +1,62 @@
 # Andrew2020WIT, GitHub content
 
-## Bilingua Dealer is a server-less web-application which allows:
+## Foreign Reader's projects
 
-- Create a bilingua book (with original text, and some translation service like Google-translation).
-- Read bilingua books.
-- Edit bilingua books.
-- Learn the foreign language, using additional functionality like "fragments".
-- Listen the original text, using a speech-engine.
-- It automatically copies the selected text (or the clicked word) to clipboard,
-  so that you can integrate it with a dictionary, which can observe clipboard (GoldenDict, for example).
-- Save the bilingua book as a json-file, import it from the json-file.
+### Foreign Reader - the web-application to read foreign books and learn languages.
 
-App: [https://andrew2020wit.github.io/bilingua-dealer/](https://andrew2020wit.github.io/bilingua-dealer/)
+https://github.com/andrew2020wit/foreign-reader
 
-Doc: [https://github.com/andrew2020wit/bilingua-dealer](https://github.com/andrew2020wit/bilingua-dealer)
+### Convert Lingvo dictionary into json file.
 
-## KeyboardTrainer, v1.3 (2020 - 2022)
+https://github.com/andrew2020wit/dsl-dictionary-parser
 
-The serverless angular-application 
+### Convert Cambridge Dictionary into json file.
+
+https://github.com/andrew2020wit/cald-mdx-to-json
+
+### Convert epub-files to json files for Foreign Reader (with translation)
+
+https://github.com/andrew2020wit/epub-to-json-for-fr
+
+### JSON-dictionary utils
+
+You can use it to unite several json dictionaries.
+You can convert the json-dictionary to an anki text file (to import in Anki).
+It also creates the copy of the json-dictionary with "externalId"
+
+https://github.com/andrew2020wit/json-dictionary-utils
+
+###  Convert srt-files (subtitles) to json-book (Foreign Reader)
+
+https://github.com/andrew2020wit/srt-to-json-book
+
+### Outdated
+
+#### Bilingua Dealer - old (deprecated) version of Foreign Reader
+
+https://github.com/andrew2020wit/bilingua-dealer
+
+#### Proxy Translation Server (outdated)
+
+https://github.com/andrew2020wit/proxy-translation-server
+
+## Utils
+
+### Convert text to kebab-case / camelCase / UPPER_CASE / PascalCase
+
+https://github.com/andrew2020wit/string-case
+
+### Chrome extension to change (by click on an icon, to redirect) base url for front-end developers and for QAs
+
+https://github.com/andrew2020wit/chrome-extension-change-base-url
+
+### SrtReader: Subtitle reader, subtitle viewer.
+
+https://github.com/andrew2020wit/srt-reader
+
+### KeyboardTrainer, v1.3 (2020 - 2022)
+
+The serverless angular-application
 for practicing blind typing on a keyboard.
 
 - app: [https://andrew2020wit.github.io/keyboard-trainer/](https://andrew2020wit.github.io/keyboard-trainer/)
