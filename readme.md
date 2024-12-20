@@ -32,6 +32,10 @@ https://github.com/andrew2020wit/srt-to-json-book
 
 ### Outdated
 
+#### Foreign Reader Synchronization Server (concept)
+
+https://github.com/andrew2020wit/foreign-reader-synchronization-server
+
 #### Bilingua Dealer - old (deprecated) version of Foreign Reader
 
 https://github.com/andrew2020wit/bilingua-dealer
