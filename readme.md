@@ -74,6 +74,10 @@ for practicing blind typing on a keyboard.
 
 It includes unit tests and end-to-end tests.
 
+### Resize an image file with Javascript / Typescript / Angular
+
+[https://github.com/andrew2020wit/frontend-image-resize](https://github.com/andrew2020wit/frontend-image-resize)
+
 ## Test and learning projects.
 
 ### AngularOrganizer (2021-2023)
