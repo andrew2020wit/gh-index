@@ -18,6 +18,10 @@ https://github.com/andrew2020wit/cald-mdx-to-json
 
 https://github.com/andrew2020wit/epub-to-json-for-fr
 
+### One click side panel dictionary (Chrome extension)
+
+[https://github.com/andrew2020wit/dictionary-sidebar-chrome-extension](https://github.com/andrew2020wit/dictionary-sidebar-chrome-extension)
+
 ### JSON-dictionary utils
 
 You can use it to unite several json dictionaries.
