@@ -2,6 +2,7 @@ https://github.com/andrew2020wit
 
 Chrome extension: Save YouTube Transcript as a formated text file
 https://chromewebstore.google.com/detail/save-youtube-transcript-a/cmahblfkoacaigpfdefeoapecbccogoo
+https://github.com/andrew2020wit/youtube-transcript-to-text
 
 Foreign Reader — a web-application to read foreign books
 https://github.com/andrew2020wit/foreign-reader
