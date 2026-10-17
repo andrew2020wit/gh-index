@@ -46,6 +46,13 @@ A simple tool for personal backups.
 
 - [Source code](https://github.com/andrew2020wit/af-backup)
 
+## Video Player
+
+A video player whose main feature is showing all subtitles at once in two columns:
+the subtitles in the original language and the subtitles of the translation.
+
+[https://github.com/andrew2020wit/af-video-player-v2](https://github.com/andrew2020wit/af-video-player-v2)
+
 ## AF Armageddon
 
 A mod for Total War: Warhammer III
@@ -60,8 +67,3 @@ A serverless Angular application for practicing touch typing.
 - [Web app](https://andrew2020wit.github.io/keyboard-trainer/)
 - [Source code](https://github.com/andrew2020wit/keyboard-trainer)
 
-## AnkiViewer
-
-A custom front end for Anki.
-
-- [Source code](https://github.com/andrew2020wit/anki-viewer)
